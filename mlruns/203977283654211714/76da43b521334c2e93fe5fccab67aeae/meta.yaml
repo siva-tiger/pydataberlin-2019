@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/panchumarthi.siv/Downloads/3.2/pydataberlin-2019/mlruns/203977283654211714/76da43b521334c2e93fe5fccab67aeae/artifacts
+end_time: 1734550609147
+entry_point_name: ''
+experiment_id: '203977283654211714'
+lifecycle_stage: active
+run_id: 76da43b521334c2e93fe5fccab67aeae
+run_name: bouncy-bear-212
+run_uuid: 76da43b521334c2e93fe5fccab67aeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734550593980
+status: 3
+tags: []
+user_id: panchumarthi.siv

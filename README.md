@@ -25,3 +25,7 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 ## Setup the environment
 - install postgresql: `sudo apt-get install postgresql postgresql-contrib postgresql-server-dev-all`
+
+## ML FLOW UI
+![ML_FLOW_UI](./ML_Flow_UI.png)
+![server_command_output](./server_output.png)
